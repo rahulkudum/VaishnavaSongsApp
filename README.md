@@ -1,4 +1,4 @@
-This is a Web App made with React.js and then converted into a Hybrid Android app using Capacitor/Ionic [You can find the app here](https://play.google.com/store/apps/details?id=com.rahulkudum.vaisnava_songs) 
+This is a Web App made with ReactJs and then converted into a Hybrid Android app using Capacitor/Ionic [You can find the app here](https://play.google.com/store/apps/details?id=com.rahulkudum.vaisnava_songs) 
 .
 ## About this Project
 
@@ -6,9 +6,9 @@ This is a Web App made with React.js and then converted into a Hybrid Android ap
 I made this App while learning ReactJs to make the learning process interesting and useful and now this app is used by thousands of people with 5-star ratings in play store and now I am very happy as this App is helping many people to enhance their Spirituality
 
 ### What I have used
-I used all the important hooks like useState, useEffect, useReducer, useRef, custom hooks and for managing the state of the App instead of using Redux I used React's built Context API which is pretty cool, and of course, I used React-Router in this App
+I used all the important hooks like useState, useEffect, useReducer, useRef, custom hooks and for managing the state of the App instead of using Redux I used React's built in Context API which is pretty cool, and of course, I used React-Router in this App
 
-For getting the songs and books used in this app I made a simple NodeJS/ExpressJS backend which I hosted in Heroku and whenever anyone installs the app it fetches all the data from text files in this backend and store in the local storage
+For getting the songs and books used in this app I made a simple NodeJS/ExpressJS backend which I hosted in Heroku and whenever anyone installs the app it fetches all the data from text files in this backend and stores them in the local storage
 
 Coming to the Android stuff although this is a hybrid app as I used Capacitor to transform my React web app into an android app but it has many native features like downloading the songs and playing the songs from the android device which are made possible by using native capacitor plugins
 
