@@ -1,6 +1,15 @@
 This is a Hybrid Android app/Web App made with React.js and then converted into Android app using Capcitor/Ionic
 [You can find the actual app here](https://play.google.com/store/apps/details?id=com.rahulkudum.vaisnava_songs).
 
+## Note
+
+I made this App while learning ReactJs in order to make the learning process intresting and useful and now this app is used by thousands of people with 5 star ratings and now i am very happy as this App is helping many people to enchance their Spirtuality
+
+I used all the important hooks like useState, useEffect, useReducer, useRef, custom hooks and for managing the state of the App instead of using Redux i used React's built Context Api which is pretty cool and ofcourse i used React-Router in this App and coming to the Android stuff although this is hybrid app as I used Capacitor to transform my React web app into android app but it has many native features like downloading the songs and playing the songs from the android device which are made possible by using native capacitor plugins
+
+As i made this app while learing React so i had used many bad practices of writing code in this project but now as i have many other projects and things to do and lear i was unable to correct them so if you are facing any problem while understanding my code please feel free to mail me     
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -13,11 +22,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
@@ -28,42 +32,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### 'npx cap sync android'
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Syncs the changes made in the React App to the Android
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+For using this you should have Capacitor installed and also you must do npm rum build before runing this script  
