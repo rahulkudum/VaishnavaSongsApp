@@ -42,5 +42,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### `npx cap sync android`
 
-Syncs the changes made in the React App to the Android
-For using this you should have Capacitor installed and also you must do "npm run build" before running this script  
+Syncs the changes made in the React App to the Android App.<br />
+For using this script you should have Capacitor installed and also you must do "npm run build" before running this script  
