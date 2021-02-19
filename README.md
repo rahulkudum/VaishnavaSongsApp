@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Hybrid Android app/Web App made with React.js and then converted into Android app using Capcitor/Ionic
+[You can find the actual app here](https://play.google.com/store/apps/details?id=com.rahulkudum.vaisnava_songs).
 
 ## Available Scripts
 
