@@ -3,7 +3,7 @@ This is a Web App made with React.js and then converted into a Hybrid Android ap
 ## About this Project
 
 ### Motivation
-I made this App while learning ReactJs to make the learning process interesting and useful and now this app is used by thousands of people with 5-star ratings and now I am very happy as this App is helping many people to enhance their Spirituality
+I made this App while learning ReactJs to make the learning process interesting and useful and now this app is used by thousands of people with 5-star ratings in play store and now I am very happy as this App is helping many people to enhance their Spirituality
 
 ### What I have used
 I used all the important hooks like useState, useEffect, useReducer, useRef, custom hooks and for managing the state of the App instead of using Redux I used React's built Context API which is pretty cool, and of course, I used React-Router in this App
@@ -16,7 +16,7 @@ Coming to the Android stuff although this is a hybrid app as I used Capacitor to
 As I made this app while learning React and also as I was the only one who made this app (without any team) so I had used many bad practices of writing code in this project but now as I have many other projects and things to do and learn, I was unable to correct them so if you are facing any problem while understanding my code please feel free to mail me
 
 ## Other Projects
-All the below projects are made by me using MERN Stack 
+All the below projects are made by me using MERN Stack.<br /> 
 As I made the following projects for other organizations so I was not supposed to host them publicly so if you want to know more about them please feel free to mail me
 
 ### Online platform for setting and writing exams
