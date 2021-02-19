@@ -1,8 +1,8 @@
 This is a Web App made with React.js and then converted into a Hybrid Android app using Capacitor/Ionic [You can find the app here](https://play.google.com/store/apps/details?id=com.rahulkudum.vaisnava_songs) 
 .
-### Note
+## Note
 
-## Motivation
+### Motivation
 I made this App while learning ReactJs to make the learning process interesting and useful and now this app is used by thousands of people with 5-star ratings and now I am very happy as this App is helping many people to enhance their Spirituality
 
 ### What I have used
